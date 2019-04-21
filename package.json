@@ -1,0 +1,10 @@
+{
+  "name": "apidoc-template-polished",
+  "version": "1.0.0",
+  "description": "my own version of the apidoc template",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomuppets/apidoc-template-polished.git"
+  }
+}
